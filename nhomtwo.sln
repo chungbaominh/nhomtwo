@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhomtwo.Module", "nhomtwo.Module\nhomtwo.Module.csproj", "{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhomtwo.Blazor.Server", "nhomtwo.Blazor.Server\nhomtwo.Blazor.Server.csproj", "{1E430E4D-9522-2FBB-AEBC-0A06B2122972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2E1C18-C552-1EBB-FAEF-28F861ECBA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E430E4D-9522-2FBB-AEBC-0A06B2122972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E430E4D-9522-2FBB-AEBC-0A06B2122972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E430E4D-9522-2FBB-AEBC-0A06B2122972}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{1E430E4D-9522-2FBB-AEBC-0A06B2122972}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{1E430E4D-9522-2FBB-AEBC-0A06B2122972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E430E4D-9522-2FBB-AEBC-0A06B2122972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
